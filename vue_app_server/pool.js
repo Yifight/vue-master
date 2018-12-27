@@ -4,7 +4,7 @@ var pool = mysql.createPool({
     poot:3306,
     user:"root",
     upwd:"",
-    database:"app_hmz",
+    database:"app_hzh",
     connectionLimit:20    
 })
 
