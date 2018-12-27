@@ -1,7 +1,7 @@
 SET NAMES UTF8;
-DROP DATABASE IF EXISTS app_hmz;
-CREATE DATABASE app_hmz CHARSET = UTF8;
-USE app_hmz;
+DROP DATABASE IF EXISTS app_hzh;
+CREATE DATABASE app_hzh CHARSET = UTF8;
+USE app_hzh;
 
 /*轮播表*/
 CREATE TABLE sc_index_carousel(
